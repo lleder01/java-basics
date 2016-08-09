@@ -1,12 +1,12 @@
-#Basic Project
+#Java Basics Project
 
-*Simple Java Project*
+*Simple Java Basic Concepts*
 
 **Java 7**
 
 * Java Application
-* JUnit
+* Maven
 
-Simple Java Application. 
+Java Application which focuses on Java Fundamentals
 
 [Luda Lederman](http://sqasolution.com)
